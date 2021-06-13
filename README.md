@@ -1,4 +1,4 @@
-## Project Name: Disaster Reponse Machine Learning Pipeline Project
+## Disaster Reponse Machine Learning Pipeline Project
 
 ## Description
 This project is part of Udacity's Data Science Nano Degree online program. In the project I analyze text data provided by Figure 8 to classify them into type of disaster response they correspond to. For doing this, natural language processing, and machine learning model are used.
