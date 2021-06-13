@@ -3,6 +3,8 @@
 ## Description
 This project is part of Udacity's Data Science Nano Degree online program. In the project I analyze text data provided by Figure 8 to classify them into type of disaster response they correspond to. For doing this, natural language processing, and machine learning model are used.
 
+The project is based on real world data of short messages sent by users during time of natural disasters such as flood, hurricance, etc. These messages need to be directed to the right disaster response department for appropriate quick remedial action. 
+
 ## Instructions on how to run
 1. Run the following commands in the project's root directory to set up your database and model.
 
